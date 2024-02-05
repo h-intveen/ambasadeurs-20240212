@@ -1,1 +1,1 @@
-# ambasadeurs-20240212
+zaVie Presentatie Toegankelijkheid 2023 gebaseerd op Reveal.js framework
