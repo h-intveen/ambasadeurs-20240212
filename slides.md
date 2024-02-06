@@ -29,7 +29,7 @@ Note:
 ## Trottoir (1)
 
 
-![Laadpaal verspert trottoir](images/Laadpaal-trottoir.jpeg)<!-- .element height="60%" width="60%" -->
+![Laadpaal verspert trottoir](images/Laadpaal-trottoir.jpeg)<!-- .element height="40%" width="40%" -->
 
 --
 
@@ -57,7 +57,6 @@ Note:
 
 --
 
-<!-- .slide: data-background-image="images/20120411-Feithhuis-Groningen.jpg"; data-background-opacity="0.2"; background-size:contain -->
 ## Entree
 
 ![Hellingbaan versperd](images/Helling-ontoegankelijk.jpg)<!-- .element height="50%" width="50%" -->
@@ -86,11 +85,11 @@ Note:
 
 ## Sanitair
 
-![Klem in het sanitair](mages/Toilet-Vapiano.JPG)<!-- .element height="50%" width="50%" -->
+![Klem in het sanitair](images/Toilet-Vapiano.JPG)<!-- .element height="40%" width="40%" -->
 
 --
 
-## Uitstalling beleid
+## Uitstallingen
 
 ![Uitstal beleid stoep, versperd](images/Uitstalling-beleid-2.JPG)<!-- .element height="50%" width="50%" -->
 
@@ -105,14 +104,6 @@ Note:
 Note:
 - Plan rolstoelplekken: zo moet het niet.
 - Bovendien wil je toch naast je medebezoeker zitten: samen uit?
-
---
-
-## Uitgang
-
-![Nooduitgang niet doorgankelijk](images/Nooduitgang-niet-doorgankelijk.JPG)<!-- .element height=" 40%" width="40%" -->
-
-- Nooduitgang doorgankelijk?
 
 --
 
@@ -153,13 +144,21 @@ Note:
 
 --
 
-## Sanitair
+## Sanitair (1)
 
-<div class="r-stack">
-<img class="fragment" height="70%" width="70%" src="images/Toilet-goede-wastafel.JPG">
-<img class="fragment" height="70%" width="70%" src="images/Toiletdeur-met-beugel.jpg">
-<img class="fragment" height="70%" width="70%" src="images/Toilet-MiVa.jpg">
-</div>
+![Bruikbare wastafel](images/Toilet-goede-wastafel.JPG)<!-- .element height="40%" width="40%" -->
+
+--
+
+## Sanitair (2)
+
+![Toiletdeur met beugel](images/Toiletdeur-met-beugel.jpg)<!-- .element height="40%" width="40%" -->
+
+--
+
+## Sanitair (3)
+
+![Goed aangelegd MiVa-toilet](images/Toilet-MiVa.jpg)<!-- .element height=460%" width="40%" -->
 
 ---
 
