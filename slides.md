@@ -70,11 +70,17 @@ Note:
 
 --
 
-## Lift
+## Lift (1)
 
 ![Lift bij trap](images/Lift-trap-gevaarlijk.JPG)<!-- .element height="40%" width="40%" -->
 
 - Stuurfoutje en ...
+
+--
+
+## Lift (2)
+
+![Heel hoge drempel voor de lift](images/Lift_met_drempel.jpeg)<!-- .element height="40%" width="40%" -->
 
 --
 
@@ -113,8 +119,8 @@ Note:
 <!-- .slide: data-menu-title="Uitstalbeleid" -->
 ## Uitstalbeleid
 
-![Uitstal beleid voorbeeld 1](images/Uitstalling-beleid-1.JPG)<!-- .element height="70%" width="40%" -->
-![Uitstal beleid voorbeeld 2](images/Uitstalling-beleid-2.JPG)<!-- .element height="70%" width="40%" -->
+![Uitstal beleid voorbeeld 1](images/Uitstalling-beleid-2.JPG)<!-- .element height="70%" width="40%" -->
+![Uitstal beleid voorbeeld 2](images/Uitstalling-beleid-3.JPG)<!-- .element height="70%" width="40%" -->
 
 Note:
 - Is er een loopzone zonder obstakels?
