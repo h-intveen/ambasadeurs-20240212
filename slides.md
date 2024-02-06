@@ -63,12 +63,6 @@ Note:
 
 --
 
-## Doorgankelijkheid
-
-![Schuine paal Forum](images/Schuine-paal-Forum.JPG)<!-- .element height="30%" width="30%" -->
-
---
-
 ## Lift (1)
 
 ![Lift bij trap](images/Lift-trap-gevaarlijk.JPG)<!-- .element height="40%" width="40%" -->
