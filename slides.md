@@ -207,4 +207,4 @@ Note:
 
 ![That's all folks](images/Thats_all_Folks.jpg)<!-- .element height="90%" width="90%" -->
 
-**Bedankt voor uw deelname!**
+**Bedankt voor uw andacht!**

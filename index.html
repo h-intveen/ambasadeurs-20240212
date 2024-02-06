@@ -4,11 +4,11 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>zaVie Mobiliteit</title>
+		<title>Toegankelijk Groningen</title>
 
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
-		<link rel="stylesheet" href="dist/theme/zaVie-light.css">
+		<link rel="stylesheet" href="dist/theme/toegankelijkGroningen-dark.css">
 
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css">
@@ -20,6 +20,7 @@
 				<section data-markdown="slides.md"
 					data-separator="^\n---\n$"
 					data-separator-vertical="^\n--\n$"
+					data-separator-notes="^Note:"
 					data-charset="iso-8859-15">
 				</section>
 			</div>
@@ -35,7 +36,6 @@
 			// - https://revealjs.com/config/
 			Reveal.initialize({
 				hash: true,
-				slideNumber: true,
 
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
@@ -43,5 +43,3 @@
 		</script>
 	</body>
 </html>
-
-Reveal.configure({ pdfSeparateFragments: false });
