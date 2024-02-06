@@ -24,7 +24,7 @@ Note:
  6. Scootmobiel
  7. ...
 
-----
+---
 
 ## Trottoir (1)
 
@@ -62,13 +62,7 @@ Note:
 
 ![Hellingbaan versperd](images/Helling-ontoegankelijk.jpg)<!-- .element height="50%" width="50%" -->
 
-Note:
-Gebruikelijk argument: hier komt nooit iemand met een rolstoel
-Dat is nogal logisch als je met een rolstoel daar niets kunt
-Simpel kip en ei verhaal!
-
 --
-
 
 ## Doorgankelijkheid
 
@@ -80,28 +74,27 @@ Simpel kip en ei verhaal!
 
 ![Lift bij trap](images/Lift-trap-gevaarlijk.JPG)<!-- .element height="40%" width="40%" -->
 
+- Stuurfoutje en ...
+
 --
 
 ## Sanitair
 
-![Uitstal beleid voorbeeld 3](mages/Toilet-Vapiano.JPG)<!-- .element height="50%" width="50%" -->
-
-Note:
-- MiVa-Toilet ontbreekt nog papierrolhouder em handdoek: in overleg met ervaringsdeskundigen
+![Klem in het sanitair](mages/Toilet-Vapiano.JPG)<!-- .element height="50%" width="50%" -->
 
 --
 
-## Terras
+## Uitstalling beleid
 
-![Uitstal beleid voorbeeld 3](images/Uitstalling-beleid-2.JPG)<!-- .element height="50%" width="50%" -->
+![Uitstal beleid stoep, versperd](images/Uitstalling-beleid-2.JPG)<!-- .element height="50%" width="50%" -->
 
 --
 
 ## Evenementzaal
 
-![Biosooprzaal rolstoelplek vooraan](images/Bioscoopzaal-Forum.jpg)<!-- .element height="50%" width="50%" -->
+![Biosoopzaal rolstoelplek vooraan](images/Bioscoopzaal-Forum.jpg)<!-- .element height="50%" width="50%" -->
 
-- Fijne rolstoelplaats?
+- Lekker bioscoop kijken?
 
 Note:
 - Plan rolstoelplekken: zo moet het niet.
@@ -111,8 +104,7 @@ Note:
 
 ## Uitgang
 
-
-![Nooduitgang niet doorgankelijk](images/Nooduitgang-niet-doorgankelijk.JPG)<!-- .element height=" 60%" width="60%" -->
+![Nooduitgang niet doorgankelijk](images/Nooduitgang-niet-doorgankelijk.JPG)<!-- .element height=" 40%" width="40%" -->
 
 - Nooduitgang doorgankelijk?
 
