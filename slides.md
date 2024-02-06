@@ -116,18 +116,6 @@ Note:
 
 --
 
-<!-- .slide: data-menu-title="Uitstalbeleid" -->
-## Uitstalbeleid
-
-![Uitstal beleid voorbeeld 1](images/Uitstalling-beleid-2.JPG)<!-- .element height="70%" width="40%" -->
-![Uitstal beleid voorbeeld 2](images/Uitstalling-beleid-3.JPG)<!-- .element height="70%" width="40%" -->
-
-Note:
-- Is er een loopzone zonder obstakels?
-- Hoe breed?
-
---
-
 <!-- .slide: data-menu-title="Afval" -->
 ## Containers (1)
 ![Glascontainer onbereikbaar](images/Alvalcontainer-onbereikbaar.jpg)<!-- .element height="40%" width="40%" -->
@@ -140,23 +128,6 @@ Note:
 
 ---
 
-## Restaurant
-
-![Terras tafel](images/Terras.JPG)<!-- .element height="40%" width="40%" -->
-
---
-
-## Lift
-
-
-![Lift bij trap](images/Lift-trap-gevaarlijk.JPG)<!-- .element height="40%" width="40%" -->
-![MiVa-bedieningspaneelLift](images/MiVa-Bedieningspaneel-lift.jpg)<!-- .element height="40%" width="40%" -->
-
-Note:
-- Spiegel op achterwand lift
-
---
-
 ## Ontvangst
 
 ![Verlaagde balie](images/Onderrijdbare-balie.jpg)<!-- .element height="50%" width="50%" -->
@@ -165,6 +136,23 @@ Note:
 - verlaagde balie: vriendelijke (foto)
 
 --
+
+## Restaurant
+
+![Rolstoel bij terras tafel](images/Terras.JPG)<!-- .element height="40%" width="40%" -->
+
+--
+
+## Lift
+
+
+![MiVa-bedieningspaneel lift](images/MiVa-Bedieningspaneel-lift.jpg)<!-- .element height="60%" width="60%" -->
+
+Note:
+- Spiegel op achterwand lift
+
+--
+
 ## Sanitair
 
 <div class="r-stack">
