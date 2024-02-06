@@ -26,13 +26,6 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Introductie (6)" data-transition="zoom" -->
-## Hulp bij gastvrijheid
-
-![External Image](https://weekvandetoegankelijkheid.nl/wp-content/uploads/2022/09/220907-WvdT-WELKOM_BIJ-V7ua-DEF.pdf)<!-- .element height="55%" width="55%" -->
-
----
-
 ## OV - abri
 
 ![Abri toegankelijkheid](images/Abri-toegankelijkheid.jpg)<!-- .element height="40%" width="40%" -->
@@ -54,8 +47,7 @@ Note:
 
 # Aanlooproute (2)
 
-![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)<!-- .element height="40%" width="40%" -->
-![Versperring doorgang zebra](images/Plaatsing-kiosk.png)<!-- .element height="40%" width="40%" -->
+![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)<!-- .element height="80%" width="80%" -->
 
 
 --
@@ -64,7 +56,7 @@ Note:
 ## Entree
 
 
-![Hellingbaan versperd](images/Helling-ontoegankelijk.jpg)<!-- .element height="20%" width="20%" -->
+![Hellingbaan versperd](images/Helling-ontoegankelijk.jpg)<!-- .element height="50%" width="50%" -->
 
 Note:
 Gebruikelijk argument: hier komt nooit iemand met een rolstoel
@@ -101,19 +93,6 @@ Note:
 
 ## Sanitair
 
-- Bewegwijzering naar toilet
-- Route toilet obstakelvrij
-- Vrije draaicirkel 150 cm in toilet
-- Toilet met armsteunen/beugels
-- Wastafel onderrijdbaar
-- Kraan bedienbaar vanuit rolstoel
-- Alarmkoord aanwezig
-- Spegel bruikbaar rolstoeler (onderkant 70 cm)
-- Verschoonvoorziening
-
-
---
-
 <div class="r-stack">
 <img class="fragment" height="70%" width="70%" src="images/Toilet-Vapiano.JPG">
 <img class="fragment" height="70%" width="70%" src="images/Toilet-goede-wastafel.JPG">
@@ -128,37 +107,21 @@ Note:
 
 ## Restaurant
 
-- Route naar tafel obstakelvrij
-- Tafels onderrijdbaar (min. 70 cm)
-- Stoelen met rug en armleuningen
-- Tafels verlicht
-
 ![Terras tafel](images/Terras.JPG)<!-- .element height="40%" width="40%" -->
 
 --
 
 ## Terras
 
-- Doorgang naar terras voldoende breed (80 cm)
-- Tafels onderrijdbaar (min. 70 cm)
-- Stoelen met rug en armleuningen
-- Tafels verlicht
-- Parasols aanwezig
-
-![Uitstal beleid voorbeeld 3](images/Uitstalling-beleid-2.JPG)<!-- .element height="30%" width="30%" -->
+![Uitstal beleid voorbeeld 3](images/Uitstalling-beleid-2.JPG)<!-- .element height="50%" width="50%" -->
 
 --
 
 ## Evenementzaal
 
-- Zaal met goede akoestiek
-- Aangepaste zit/rolstoelplaatsen
-- Rolstoelplaatsen beschikbaar
-- Rolstoelplaatsen vooraf reserveren
-- Pauze voorzieningen goed bereikbaar
-- Rolstoeltoegankelijke garderobe
+![Biosooprzaal rolstoelplek vooraan](images/Bioscoopzaal-Forum.jpg)<!-- .element height="50%" width="50%" -->
 
-![Biosooprzaal rolstoelplek vooraan](images/Bioscoopzaal-Forum.jpg)<!-- .element height="20%" width="20%" -->
+- Fijne rolstoelplaats?
 
 Note:
 - Plan rolstoelplekken: zo moet het niet.
@@ -168,18 +131,12 @@ Note:
 
 ## Uitgang
 
-- Nooduitgang toegankelijk
-- Vluchtroute drempelvrij
-- Vluchtroute verhard
-- vluchtroute breed genoeg (80 cm)
-- Vluchtroute met hellingbaan
-  - Lengte hellingbaan
-  - Hoogteverschil hellingbaan
-- Nooddeur met weing kracht te openen
 
 ![Nooduitgang niet doorgankelijk](images/Nooduitgang-niet-doorgankelijk.JPG)<!-- .element height=" 20%" width="20%" -->
 
----
+- Nooduitgang doorgankelijk?
+
+--
 
 <!-- .slide: data-menu-title="Toegankelijkheid plannen (2)" -->
 ## Zones in straten
