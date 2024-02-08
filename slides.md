@@ -85,13 +85,13 @@ Note:
 
 ## Uitstallingen
 
-![Uitstal beleid stoep, versperd](images/Uitstalling-beleid-2.JPG)<!-- .element height="50%" width="50%" -->
+![Uitstal beleid stoep, versperd](images/Uitstalling-beleid-2.JPG)<!-- .element height="40%" width="40%" -->
 
 --
 
 ## Evenementzaal
 
-![Biosoopzaal rolstoelplek vooraan](images/Bioscoopzaal-Forum.jpg)<!-- .element height="50%" width="50%" -->
+![Biosoopzaal rolstoelplek vooraan](images/Bioscoopzaal-Forum.jpg)<!-- .element height="40%" width="40%" -->
 
 - Lekker bioscoop kijken?
 
@@ -124,7 +124,7 @@ Note:
 
 ## Restaurant
 
-![Rolstoel bij terras tafel](images/Terras.JPG)<!-- .element height="40%" width="40%" -->
+![Rolstoel bij terras tafel](images/Terras.JPG)<!-- .element height="50%" width="50%" -->
 
 --
 
@@ -153,6 +153,18 @@ Note:
 ## Sanitair (3)
 
 ![Goed aangelegd MiVa-toilet](images/Toilet-MiVa.jpg)<!-- .element height=460%" width="40%" -->
+
+--
+
+## ESNS (1)
+
+![Rolstoel vriendelijke kabelgoten](images/ESNS-rijplaten.jpg)<!-- .element height=460%" width="40%" -->
+
+--
+
+## ESNS (2)
+
+![MiVa-toilet met platform](images/ESNS-MiVa-toilet.jpg)<!-- .element height=460%" width="40%" -->
 
 ---
 
