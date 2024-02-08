@@ -26,6 +26,12 @@ Note:
 
 ---
 
+## Het leven is soms lastig...
+
+![Duim omlaag](images/Thumbs-down-clipart.jpg)<!-- .element height="30%" width="30%" -->
+
+--
+
 ## Trottoir (1)
 
 
@@ -109,9 +115,16 @@ Note:
 --
 
 ## Containers (2)
+
 ![Onhandig containertuintje](images/Container-tuintje.jpg)<!-- .element height="40%" width="40%" -->
 
 ---
+
+## Maar het kan ook goed...
+
+![Duim omhoog](images/Thumbs-up-clipart.jpeg)<!-- .element height="30%" width="30%" -->
+
+--
 
 ## Ontvangst
 
