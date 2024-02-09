@@ -26,9 +26,9 @@ Note:
 
 ---
 
-## Het leven is soms lastig...
+## Het is soms lastig...
 
-![Duim omlaag](images/Thumbs-down-clipart.jpg)<!-- .element height="30%" width="30%" -->
+![Duim omlaag](images/sad-emoticon-face.jpg)<!-- .element height="30%" width="30%" -->
 
 --
 
@@ -120,9 +120,9 @@ Note:
 
 ---
 
-## Maar het kan ook goed...
+## Daar is over nagedacht...
 
-![Duim omhoog](images/Thumbs-up-clipart.jpeg)<!-- .element height="30%" width="30%" -->
+![Duim omhoog](images/thinking-emoticon-smiley.jpg)<!-- .element height="30%" width="30%" -->
 
 --
 
