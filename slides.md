@@ -1,5 +1,5 @@
 
-<!-- .slide: data-menu-title="Frontpage"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.2"; background-size:contain -->
+<!-- .slide: data-menu-title="Frontpage"; data-background-image="images/Diversity-accessibility.jpg"; data-background-opacity="0.2"; background-size:contain -->
 # Uitdagingen mobiliteitsbeperking
 12-2-2024
 
@@ -13,7 +13,7 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Introductie (1)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+<!-- .slide: data-menu-title="Om swie gaat het"; data-background-image="images/Diversity-accessibility.jpg"; data-background-opacity="0.2"; background-size:cover -->
 ## Om wie gaat het
 
  1. Rolstoelers
