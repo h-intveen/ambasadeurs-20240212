@@ -151,19 +151,19 @@ Note:
 
 --
 
-## Sanitair (1)
+## MiVa-toilet (1)
 
 ![Bruikbare wastafel](images/Toilet-goede-wastafel.JPG)<!-- .element height="40%" width="40%" -->
 
 --
 
-## Sanitair (2)
+## MiVa-toilet (2)
 
 ![Toiletdeur met beugel](images/Toiletdeur-met-beugel.jpg)<!-- .element height="40%" width="40%" -->
 
 --
 
-## Sanitair (3)
+## MiVa-toilet (3)
 
 ![Goed aangelegd MiVa-toilet](images/Toilet-MiVa.jpg)<!-- .element height=460%" width="40%" -->
 
