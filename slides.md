@@ -13,7 +13,7 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Om swie gaat het"; data-background-image="images/Diversity-accessibility.jpg"; data-background-opacity="0.2"; background-size:cover -->
+<!-- .slide: data-menu-title="Om wie gaat het"; data-background-image="images/Diversity-accessibility.jpg"; data-background-opacity="0.2"; background-size:cover -->
 ## Om wie gaat het
 
  1. Rolstoelers
@@ -60,6 +60,14 @@ Note:
 -  Kun je op de verhoging komen?
 -  Kan je er tussendoor?
 -  Kun je schuilen bij regen?
+
+--
+
+## OV - bus
+
+![Wie klapt de plank van de bus uit](images/Electrische-rolstoel-bus.jpg)<!-- .element height="40%" width="40%" -->
+
+-  Wie klapt de plank van de bus voor je uit?
 
 --
 
@@ -110,13 +118,13 @@ Note:
 <!-- .slide: data-menu-title="Afval" -->
 ## Containers (1)
 ![Glascontainer onbereikbaar](images/Alvalcontainer-onbereikbaar.jpg)<!-- .element height="40%" width="40%" -->
-<!-- .slide: data-menu-title="Toegankelijkheid plannen (3)" -->
 
 --
 
 ## Containers (2)
 
 ![Onhandig containertuintje](images/Container-tuintje.jpg)<!-- .element height="40%" width="40%" -->
+
 
 ---
 
